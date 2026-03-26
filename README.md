@@ -1,2 +1,0 @@
-# skillhub-skills
-skillhub-skills
